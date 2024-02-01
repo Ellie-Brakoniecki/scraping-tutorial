@@ -33,7 +33,12 @@ pip install -r requirements.txt
 2. Place the downloaded chromedriver.exe file inside the chromedriver folder.
 
 
-### 5. Running the recipe scraping script
+### 5. Running the scraping scripts
 ```bash
 python recipe_scraper.py
 ```
+or 
+```bash
+python bank_of_england_scraper.py
+```
+
