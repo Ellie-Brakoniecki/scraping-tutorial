@@ -38,12 +38,11 @@ pip install -r requirements.txt
 python recipe_scraper.py
 ```
 Note this script needs to be completed by doing the exercises before it will run.
-Can run 
+If just want to see it working can run 
 ```bash
 python recipe_scraper_answers.py
-``` if just want to see it working
+``` 
 
-or 
 ```bash
 python bank_of_england_scraper.py
 ```
