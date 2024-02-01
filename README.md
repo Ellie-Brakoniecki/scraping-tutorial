@@ -35,6 +35,10 @@ pip install -r requirements.txt
 
 ### 5. Running the scraping scripts
 ```bash
+python bank_of_england_scraper.py
+```
+
+```bash
 python recipe_scraper.py
 ```
 Note this script needs to be completed by doing the exercises before it will run.
@@ -43,7 +47,5 @@ If just want to see it working can run
 python recipe_scraper_answers.py
 ``` 
 
-```bash
-python bank_of_england_scraper.py
-```
+
 
